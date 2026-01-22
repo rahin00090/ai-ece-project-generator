@@ -18,3 +18,10 @@ View your app in AI Studio: https://ai.studio/apps/drive/14acby7Yk6vQpkGIYQAmgdP
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+## How It Works
+1. User enters academic and project preferences
+2. The app injects inputs into a structured master prompt
+3. Google Gemini generates a complete ECE project with report
+4. Output can be used for college submission or hackathons
