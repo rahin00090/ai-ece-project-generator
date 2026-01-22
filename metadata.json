@@ -1,0 +1,7 @@
+{
+  "name": "AI ECE Project Architect",
+  "description": "A professional AI-powered tool for ECE students to architect innovative projects, generate full technical reports, and simulate AI vision hazard detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
